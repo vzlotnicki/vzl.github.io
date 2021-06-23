@@ -7,9 +7,9 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1977-1983`
+MAssachussetts Institute of Technology and Woods Hole Oceanographic Institution
+PhD
 
 `1995 - 1997`
 __University Name__
