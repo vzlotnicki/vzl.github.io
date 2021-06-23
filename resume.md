@@ -8,7 +8,7 @@ Current Position Description
 ## Education
 
 `1977-1983`
-MAssachussetts Institute of Technology and Woods Hole Oceanographic Institution
+Massachussetts Institute of Technology and Woods Hole Oceanographic Institution
 PhD
 
 `1995 - 1997`
