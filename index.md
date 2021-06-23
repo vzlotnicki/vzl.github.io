@@ -7,8 +7,5 @@ I am trained in physical oceanography and marine geophysics at MIT and WHOI. Hav
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- GRACE-Follow On : measures movement of large masses on Earth, such as water melting from Greenland, or water drying up in the central valley of California, or changes in deep ocean currents, by measuring tiny changes in the relative change in distance between two satellites to better than a micron per second.
+- Sentinel-6 / Michael Freilich: carries a radar altimeter and other instruments to measure changes in height of ocean patches some 6-10 km in diameter, to better than an inch per second. The globally-averaged sea level is measured to better than 1 mm/yr.
